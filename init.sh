@@ -18,7 +18,7 @@ webserver-allow-from=0.0.0.0/0
 # log-dns-details       If PDNS should log DNS non-erroneous details
 # log-dns-details=no
 # log-dns-queries       If PDNS should log all incoming DNS queries
-log-dns-queries=yes
+#log-dns-queries=yes
 # log-timestamp Print timestamps in log lines
 # log-timestamp=yes
 # logging-facility      Log under a specific facility
